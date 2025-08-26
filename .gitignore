@@ -2,6 +2,8 @@
 .venv
 .ipynb_checkpoints
 box_ai_*.py
+.DS_Store
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
