@@ -40,7 +40,7 @@ This workshop provides practical, hands-on experience with:
 Clone this repository and create a virtual environment:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/box-community/box-ai-api-masterclass.git
 cd box-ai-api-master-class
 
 # Create and activate virtual environment
