@@ -1,6 +1,6 @@
 # Box AI API Master Class
 
-A comprehensive workshop designed to teach developers how to leverage Box's AI capabilities through hands-on Jupyter notebook exercises. This interactive learning experience covers the full spectrum of Box AI APIs, from basic document Q&A to advanced structured data extraction and custom AI agents.
+A comprehensive workshop designed to teach developers how to leverage the Box AI API capabilities through hands-on Jupyter notebook exercises. This interactive learning experience covers the full spectrum of Box AI APIs, from basic document Q&A to advanced structured data extraction and custom AI agents.
 
 ## What You'll Learn
 
@@ -10,7 +10,7 @@ This workshop provides practical, hands-on experience with:
 - **Data Extraction**: Extract structured and unstructured data from various document types (PDFs, Word docs, etc.)
 - **Box Hubs**: Use Box's Retrieval Augmented Generation (RAG) capabilities across large document sets
 - **Custom AI Agents**: Create and deploy specialized AI agents through Box AI Studio
-- **Enterprise Integration**: Build production-ready workflows using Box's Python SDK
+- **Enterprise Integration**: Build production-ready workflows using the Box Python SDK
 
 ## Prerequisites
 
@@ -171,7 +171,7 @@ While this workshop uses simplified authentication and storage for learning purp
 - **Box Developer Documentation**: [developer.box.com](https://developer.box.com)
 - **Box AI APIs**: [Box AI Documentation](https://developer.box.com/guides/box-ai/)
 - **Box Python SDK**: [box-python-sdk](https://github.com/box/box-python-sdk-gen)
-- **Box Community**: [Box Developer Community](https://community.box.com/t5/custom/page/page-id/BoxDeveloperProgram)
+- **Box Community**: [Box Developer Community](https://community.box.com/box-platform-5)
 
 ## Getting Help
 
