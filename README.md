@@ -41,7 +41,7 @@ Clone this repository and create a virtual environment:
 
 ```bash
 git clone https://github.com/box-community/box-ai-api-masterclass.git
-cd box-ai-api-master-class
+cd box-ai-api-masterclass
 
 # Create and activate virtual environment
 python -m venv .venv
